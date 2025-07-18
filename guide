@@ -1,0 +1,5 @@
+step 1 :- execute requirement.txt file
+step 2 :- when all the dependencies are installed, run connect.py file, It starts the flask server.
+step 3 :- when it is started successfully, open "http://localhost:5000/" in your browser.
+
+Give the inputs and after the clicking on "Analyze my energy usage" button, you will get the output.
